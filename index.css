@@ -1,0 +1,100 @@
+.immg{ 
+    width: 860px;
+    height: 520px;
+    flex-shrink: 0;
+    
+}
+.real{
+    display: flex;
+    justify-content: space-around;
+}
+.keep{
+    background-color: whitesmoke;
+    width: 280px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.nav2{
+    padding-top: 10px;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+}.opp{
+    width: 100px;
+    border-radius: 20px;
+    height: 40px;
+}
+h5{
+    font-size: 20px;
+}
+hr{
+    width: 440px;
+}
+.divnav2{
+    display: flex;
+    justify-content: space-between;
+}
+.divnav1{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    border: none;
+    background-color: white;
+    font-size: 14px;
+}
+.btns{
+    border: none;
+    background-color: whitesmoke;
+    font-size: 14px;
+}
+.imin{
+    display: flex;
+   justify-content: space-between;
+}
+.innp{
+    background-color: whitesmoke;
+    width: 180px;
+    height: 30px;
+    border-radius: 18px;
+    padding-top: 10px;
+    padding-left: 10px;
+   
+}
+.icofont-brand-nike{
+    width: 40px;
+    height: 40px;
+}
+footer{
+    background-color: black;
+    /* height: 60px; */
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-size: 12px;
+}
+.im{
+    padding-top: 10px;
+
+}
+.yeah{
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    border: none;
+    background-color: whitesmoke;
+}
+.nav1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: whitesmoke;
+    height: 30px;
+}
